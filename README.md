@@ -105,10 +105,18 @@ and refresh behavior.
 
 Suggested repository structure
 
-Investment-reporting-dashboard
-|
+```text
+Investment-Reporting-Dashboard/
+│
 ├── readme.md
 └── Automated_Investment_Reporting.xlsm
+├──Dashboard.pdf
+```
+## Dashboard Demo
+
+Watch the video demonstration of the Excel Investment Reporting Dashboard:
+
+[Watch Dashboard Demo](PASTE_YOUR_VIDEO_URL_HERE)
 
 
 Limitations
