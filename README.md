@@ -105,9 +105,10 @@ and refresh behavior.
 
 Suggested repository structure
 
-investment-reporting-dashboard/
-├── README.md
-└── Automated_Investment_Reporting_100_Rows(3).xlsm
+Investment-reporting-dashboard
+|
+├── readme.md
+└── Automated_Investment_Reporting.xlsm
 
 
 Limitations
