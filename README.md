@@ -111,6 +111,7 @@ Investment-Reporting-Dashboard/
 ├── readme.md
 └── Automated_Investment_Reporting.xlsm
 ├──Dashboard.pdf
+├── image
 ```
 ## Dashboard Demo
 
