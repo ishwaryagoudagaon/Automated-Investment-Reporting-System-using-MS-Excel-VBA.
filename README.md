@@ -110,14 +110,15 @@ Investment-Reporting-Dashboard/
 │
 ├── readme.md
 └── Automated_Investment_Reporting.xlsm
-├──Dashboard.pdf
 ├── image
+├───────Dashboard.pdf
+├───────Dashboard_working.mp4
 ```
 ## Dashboard Demo
 
 Watch the video demonstration of the Excel Investment Reporting Dashboard:
 
-[Watch Dashboard Demo](PASTE_YOUR_VIDEO_URL_HERE)
+[Watch Dashboard Demo](https://github.com/ishwaryagoudagaon/Investment-Reporting-Dashboard-/blob/main/image/Dashboard_working.mp4))
 
 
 Limitations
